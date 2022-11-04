@@ -33,6 +33,7 @@ httptools==0.4.0
 idna==3.3
 iniconfig==1.1.1
 install==1.3.5
+isort==5.10.1
 makefun==1.13.1
 Mako==1.2.0
 MarkupSafe==2.1.1
